@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/Examples/example3-summa/bin/Debug/net6.0/example3-summa
+/Users/kristina/Desktop/Examples/example3-summa/bin/Debug/net6.0/example3-summa.deps.json
+/Users/kristina/Desktop/Examples/example3-summa/bin/Debug/net6.0/example3-summa.runtimeconfig.json
+/Users/kristina/Desktop/Examples/example3-summa/bin/Debug/net6.0/example3-summa.dll
+/Users/kristina/Desktop/Examples/example3-summa/bin/Debug/net6.0/example3-summa.pdb
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.AssemblyInfo.cs
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.dll
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/refint/example3-summa.dll
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.pdb
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/example3-summa.genruntimeconfig.cache
+/Users/kristina/Desktop/Examples/example3-summa/obj/Debug/net6.0/ref/example3-summa.dll
