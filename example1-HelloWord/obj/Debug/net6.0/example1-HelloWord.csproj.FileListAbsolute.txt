@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/Examples/example1-HelloWord/bin/Debug/net6.0/example1-HelloWord
+/Users/kristina/Desktop/Examples/example1-HelloWord/bin/Debug/net6.0/example1-HelloWord.deps.json
+/Users/kristina/Desktop/Examples/example1-HelloWord/bin/Debug/net6.0/example1-HelloWord.runtimeconfig.json
+/Users/kristina/Desktop/Examples/example1-HelloWord/bin/Debug/net6.0/example1-HelloWord.dll
+/Users/kristina/Desktop/Examples/example1-HelloWord/bin/Debug/net6.0/example1-HelloWord.pdb
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.AssemblyInfo.cs
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.dll
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/refint/example1-HelloWord.dll
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.pdb
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/example1-HelloWord.genruntimeconfig.cache
+/Users/kristina/Desktop/Examples/example1-HelloWord/obj/Debug/net6.0/ref/example1-HelloWord.dll
